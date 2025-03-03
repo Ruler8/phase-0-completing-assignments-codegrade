@@ -45,7 +45,7 @@ to set up a directory where you can keep all of your work for this course.
 > **Note:** The process we'll go through in this lesson will create sub-folders
 > automatically. Whenever you are starting a new assignment, navigate back to
 > your main `se-prep` folder (`cd ~/Development/code/se-prep`) before cloning
-> the assignment to ensure these sub-folders don't get created _within each
+> the assignment to ensure these sub-folders don't get created _within 
 > other_.
 
 ### Accessing GitHub and Forking
